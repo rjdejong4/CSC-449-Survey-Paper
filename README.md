@@ -1,7 +1,7 @@
 # CSC 449 Survey Paper: Remote Sensing for Enviornmental Conservation
 Environmental Conservation via Remote Sensing: A Survey  <br>
 Robin de Jong  <br>
-CSC 449  <br>
+CSC 449 Machine Vision <br>
 University of Rochester  <br>
 April 2025 <br>
 
