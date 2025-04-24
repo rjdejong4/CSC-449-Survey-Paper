@@ -11,6 +11,7 @@ Remote sensing, an application of machine vision, is a popular and widely used t
 
 
  ## Sources:
+ Some sources could not be linked as they were gathered through the University of Rochester Library webpage.
 | Title                                                                                              | Author(s)       |Date           | Type               | Source        |
 | ----------------------------------------------------------------------------------                 |---------------  | ------------- |--------------------|---------------|
 | [Remote sensing](https://doi-org.ezp.lib.rochester.edu/10.1036/1097-8542.580900")                  |Bodo Bookhagen   | 01/2024       |Article (from Book) |McGraw Hill    |
